@@ -1,1 +1,1 @@
-# churn_prediction_ann_project
+# customer churn prediction ann_project
